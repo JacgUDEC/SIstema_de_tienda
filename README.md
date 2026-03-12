@@ -57,5 +57,6 @@ Si usas Git:
 
 ```bash
 git clone https://github.com/JacgUDEC/SIstema_de_tienda.git
+```
 
 o se descarga el archivo Tienda.py
